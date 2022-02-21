@@ -8,7 +8,7 @@ console.log('symbol1 é igual a symbol2:', symbol1 === symbol2);
 const nameSymbol = Symbol('name');
 const symbol2 = Symbol('name');
 
-const user = {,
+const user = {
   [nameSymbol]: 'Jacqueline',
   [nameSymbol]: 'Outro nome',
   lastName: 'Silva Ferreira'
