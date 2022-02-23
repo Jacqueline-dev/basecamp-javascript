@@ -13,7 +13,7 @@ var obj = {
     console.log(value) 
   }
 }
-obj.showContext()
+obj.showContext() 
 
 // forma moderna
 var obj = {
